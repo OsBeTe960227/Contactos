@@ -218,6 +218,7 @@ public class MainActivity extends AppCompatActivity {
 
         mailCursor.close();
 
+
         return email;
     }
 }
